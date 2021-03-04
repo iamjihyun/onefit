@@ -1,6 +1,6 @@
 
-# Created by https://www.toptal.com/developers/gitignore/api/java,eclipse,intellij
-# Edit at https://www.toptal.com/developers/gitignore?templates=java,eclipse,intellij
+# Created by https://www.toptal.com/developers/gitignore/api/java,java-web,eclipse,intellij
+# Edit at https://www.toptal.com/developers/gitignore?templates=java,java-web,eclipse,intellij
 
 ### Eclipse ###
 .metadata
@@ -196,4 +196,8 @@ fabric.properties
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
-# End of https://www.toptal.com/developers/gitignore/api/java,eclipse,intellij
+### Java-Web ###
+## ignoring target file
+target/
+
+# End of https://www.toptal.com/developers/gitignore/api/java,java-web,eclipse,intellij
